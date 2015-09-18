@@ -1,1 +1,1 @@
-# Go_on_Rails
+# Go on Rails
